@@ -1,0 +1,13 @@
+{
+  "name": "unhealthy-express",
+  "version": "1.0.0",
+  "description": "Unhealthy express application",
+  "author": "Alexander Willemsen",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.18.1"
+  }
+}
